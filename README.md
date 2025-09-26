@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ulyana 👋</h1>
+<h1 align="center">Hi, I'm Ulyana 👩‍💻</h1>
 
 <p align="center">
   Junior Backend Developer | TypeScript & MongoDB Enthusiast | Clean Architecture Explorer
@@ -6,7 +6,7 @@
 
 ---
 
-###  👩‍💻About Me
+###  👋About Me
 
 I’m a backend developer trainee passionate about building reliable and efficient server-side applications.  
 With a solid foundation in Node.js, Express, and databases (SQL/NoSQL), I design and implement RESTful APIs, manage data, and ensure smooth communication between client and server.  
