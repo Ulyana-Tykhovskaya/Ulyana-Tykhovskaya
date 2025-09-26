@@ -28,17 +28,21 @@ I’m eager to gain practical experience, contribute to real-world projects, and
 
 ---
 🟢 Utilities / Tools
-<p align="center"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-
+
+
+<p align="center"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+
 
 ---
 
 
 ### 🚀 Projects
 
+
 🧠 Harmoniq Project
 
-🌐 Live Preview:
-👉 https://project-harmoniq-front-end.vercel.app
+🌐 Live Preview: [project-harmoniq-front-end.vercel.app](https://project-harmoniq-front-end.vercel.app)
+
 
 📝 Description:
 A simple, clear, and user-friendly service for accessing high-quality content, creating your own articles, and sharing experiences with others. A place to find like-minded people, support, and motivation.
@@ -49,11 +53,21 @@ Developed the backend: built a REST API for managing articles, comments, and use
 
 ---
 
+
 ### 📫 Contact
 
-- Telegram: [@ulyana_131](https://t.me/ulyana_131)  
-- Email: ulyanatyyy@gmail.com
-- LinkedIn: [www.linkedin.com/in/uliana-tykhovska-551456354](https://www.linkedin.com/in/uliana-tykhovska-551456354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="center">
+  <a href="https://t.me/ulyana_131">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ulyanatyyy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/uliana-tykhovska-551456354">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
