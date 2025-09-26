@@ -51,7 +51,7 @@ Developed the backend: built a REST API for managing articles, comments, and use
 
 - Telegram: [@ulyana_131](https://t.me/ulyana_131)  
 - Email: ulyanatyyy@gmail.com
-- LinkedIn: [www.linkedin.com/in/uliana-tykhovska-551456354](www.linkedin.com/in/uliana-tykhovska-551456354)
+- LinkedIn: [www.linkedin.com/in/uliana-tykhovska-551456354](https://www.linkedin.com/in/uliana-tykhovska-551456354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
