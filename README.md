@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ulyana 👩‍💻</h1>
 
 <p align="center">
-  Junior Backend Developer | TypeScript & MongoDB Enthusiast | Clean Architecture Explorer
+   Backend Developer | TypeScript & MongoDB Enthusiast | Clean Architecture Explorer
 </p>
 
 ---
